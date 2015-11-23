@@ -1,6 +1,6 @@
 # xkcd
 
-So poetry.
-Ispired by much xkcd.com
-And,
-Those who introduced me to it. 
+So poetry. <br >
+Inspired by much xkcd.com <br >
+And, <br >
+Those who introduced me to it. <br >
